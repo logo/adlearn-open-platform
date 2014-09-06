@@ -1,0 +1,21 @@
+
+/**
+ * AdLearn Open Platform logo.
+ */
+
+.logo[data-logo="AdLearn Open Platform"] {
+  width: 0;
+}
+
+.logo[data-logo="AdLearn Open Platform"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
+
+.logo[data-logo="AdLearn Open Platform"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="AdLearn Open Platform"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
