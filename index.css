@@ -4,7 +4,7 @@
  */
 
 .logo[data-logo="AdLearn Open Platform"] {
-  width: 0;
+  width: 4em;
 }
 
 .logo[data-logo="AdLearn Open Platform"] > * {
